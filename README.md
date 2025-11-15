@@ -10,7 +10,7 @@ Let's explore some features in both Git and Github
 * [ ] Task Item 4  
 
 - [x] Task Item 1   
-- [x] Task Item 2   
+- [ ] Task Item 2   
 - [ ] Task Item 3   
 
 Happy Coding 😎
